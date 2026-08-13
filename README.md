@@ -1,4 +1,4 @@
-# Hi, I'm Shyamalan M 👋
+# Hi, I'm Shyamalan M 
 
 ### MSc Computer Science | Software Testing | Automation Testing
 
